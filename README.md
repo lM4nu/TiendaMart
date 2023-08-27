@@ -9,7 +9,7 @@ En windows desde el cmd estando en la carpeta del repo
 javac -d bin @sourceswin.txt
 java -cp bin com.mart.tienda.App
 ```
-En Linux desde el cmd estando en la carpeta del repo
+En Linux
 ```
 javac -d bin @sourceslinux.txt
 java -cp bin com.mart.tienda.App
