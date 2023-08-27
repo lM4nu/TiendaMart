@@ -1,6 +1,6 @@
 package com.mart.tienda.modelos;
 
-import com.mart.tienda.aux.Generador;
+import com.mart.tienda.auxi.Generador;
 import com.mart.tienda.interfaces.Descuento;
 
 public class Producto implements Descuento {

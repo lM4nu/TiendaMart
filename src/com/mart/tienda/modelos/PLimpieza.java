@@ -1,6 +1,6 @@
 package com.mart.tienda.modelos;
 
-import com.mart.tienda.aux.Aplicado;
+import com.mart.tienda.auxi.Aplicado;
 
 public class PLimpieza extends Producto {
 

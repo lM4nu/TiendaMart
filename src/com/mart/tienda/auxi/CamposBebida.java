@@ -1,4 +1,4 @@
-package com.mart.tienda.aux;
+package com.mart.tienda.auxi;
 
 public class CamposBebida {
     private boolean alcoholica;

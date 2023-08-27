@@ -2,8 +2,8 @@ package com.mart.tienda.modelos;
 
 import java.time.LocalDate;
 
-import com.mart.tienda.aux.CamposBebida;
-import com.mart.tienda.aux.CamposComida;
+import com.mart.tienda.auxi.CamposBebida;
+import com.mart.tienda.auxi.CamposComida;
 import com.mart.tienda.interfaces.Comestible;
 
 public class Bebida extends Producto implements Comestible {

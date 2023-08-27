@@ -5,11 +5,11 @@ import java.util.InputMismatchException;
 import java.util.List;
 import java.util.Scanner;
 
-import com.mart.tienda.aux.Aplicado;
-import com.mart.tienda.aux.CamposBebida;
-import com.mart.tienda.aux.CamposComida;
-import com.mart.tienda.aux.Envase;
-import com.mart.tienda.aux.Menu;
+import com.mart.tienda.auxi.Aplicado;
+import com.mart.tienda.auxi.CamposBebida;
+import com.mart.tienda.auxi.CamposComida;
+import com.mart.tienda.auxi.Envase;
+import com.mart.tienda.auxi.Menu;
 import com.mart.tienda.modelos.Bebida;
 import com.mart.tienda.modelos.Envasado;
 import com.mart.tienda.modelos.PLimpieza;

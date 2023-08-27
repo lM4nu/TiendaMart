@@ -1,4 +1,4 @@
-package com.mart.tienda.aux;
+package com.mart.tienda.auxi;
 
 import java.time.LocalDate;
 
