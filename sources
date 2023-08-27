@@ -1,0 +1,8 @@
+src/com/mart/tienda/aux/Envase.java
+src/com/mart/tienda/aux/Generador.java
+src/com/mart/tienda/aux/Aplicado.java
+src/com/mart/tienda/modelos/Envasado.java
+src/com/mart/tienda/modelos/PLimpieza.java
+src/com/mart/tienda/modelos/Producto.java
+src/com/mart/tienda/modelos/Bebida.java
+src/com/mart/tienda/App.java
